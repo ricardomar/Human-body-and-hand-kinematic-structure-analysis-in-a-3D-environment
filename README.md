@@ -1,5 +1,7 @@
 # Human body and hand kinematic structure analysis in a 3D environment
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4553445.svg)](https://doi.org/10.5281/zenodo.4553445)
+
 
 ## Objectives:
 
